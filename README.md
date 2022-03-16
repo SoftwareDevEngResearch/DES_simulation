@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/470771624.svg)](https://zenodo.org/badge/latestdoi/470771624)
+
 # DES_simulation
 Simulation software for decay energy spectroscopy spectra given sample composition, total activity, and absorber dimensions.
 
@@ -44,6 +46,4 @@ Am-241 has a full energy peak at:  5637.8212
 
 See Expected Command Line Arguments Section above for information on the expected units for user input values.
 
-## Citation
-10.5281/zenodo.6363712
 
