@@ -43,3 +43,7 @@ Am-241 has a full energy peak at:  5637.8212
 **Output energy is always in units of ***keV!*****
 
 See Expected Command Line Arguments Section above for information on the expected units for user input values.
+
+## Citation
+10.5281/zenodo.6363712
+
